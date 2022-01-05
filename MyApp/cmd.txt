@@ -1,0 +1,2 @@
+cd "/home/maximesa/delivery/tek-3/ReactNativeCounter/MyApp" && npx react-native run-android
+
